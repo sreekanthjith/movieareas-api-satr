@@ -3,7 +3,7 @@
 Provide a movie api for
 reactjs app.
 
-### Important commands
+### Important Commands
 
 1. `npm install`
 2. `npm run server`
